@@ -1,0 +1,1 @@
+# rakibroni-shopware6-theme-plugin
